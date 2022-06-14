@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "wartungs-und-storungsmeldung-artikel-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/wartungsUndStorungsmeldungArtikel/WartungsUndStorungsmeldungArtikelWebPart.js",
+          "manifest": "./src/webparts/wartungsUndStorungsmeldungArtikel/WartungsUndStorungsmeldungArtikelWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "WartungsUndStorungsmeldungArtikelWebPartStrings": "lib/webparts/wartungsUndStorungsmeldungArtikel/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ITranslation.d.ts","sourceRoot":"","sources":["../../src/Services/ITranslation.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC1B,YAAY,EAAE,YAAY,EAAE,CAAC;CAChC;AAED,UAAU,YAAY;IAClB,IAAI,EAAE,MAAM,CAAC;IACb,EAAE,EAAE,MAAM,CAAC;CACd"}

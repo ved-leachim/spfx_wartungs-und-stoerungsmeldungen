@@ -1,0 +1,32 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+
+.card {
+  margin: auto;
+  width: 60%;
+  height: 90%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  padding: 15px;
+}
+
+table {
+  border-spacing: 10px;
+  border-collapse: separate;
+}
+
+table td {
+  vertical-align: top;
+}
+
+.links {
+  a {
+    text-decoration: none;
+    color: "[theme:link, default:#03787c]";
+    color: var(--link); // note: CSS Custom Properties support is limited to modern browsers only
+
+    &:hover {
+      text-decoration: underline;
+      color: "[theme:linkHovered, default: #014446]";
+      color: var(--linkHovered); // note: CSS Custom Properties support is limited to modern browsers only
+    }
+  }
+}

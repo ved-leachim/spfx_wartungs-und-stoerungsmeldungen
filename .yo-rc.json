@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "wartungundstoerungsmeldungenartikel",
+    "libraryId": "b9a18547-92e1-4947-b173-c57432efd835",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "wartungundstoerungsmeldungenartikel",
+    "solutionShortDescription": "wartungundstoerungsmeldungenartikel description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

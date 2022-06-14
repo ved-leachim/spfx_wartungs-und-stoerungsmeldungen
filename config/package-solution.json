@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "wartungundstoerungsmeldungenartikel-client-side-solution",
+    "id": "b9a18547-92e1-4947-b173-c57432efd835",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "wartungundstoerungsmeldungenartikel description"
+      },
+      "longDescription": {
+        "default": "wartungundstoerungsmeldungenartikel description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "wartungundstoerungsmeldungenartikel Feature",
+        "description": "The feature that activates elements of the wartungundstoerungsmeldungenartikel solution.",
+        "id": "e69ecf7f-04e6-4e8d-a2c5-aef541b36297",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/wartungundstoerungsmeldungenartikel.sppkg"
+  }
+}
